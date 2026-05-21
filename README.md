@@ -1,4 +1,4 @@
-# Ders-al-ma-Disiplini-Analiz-Sistemi
+# Ders-Çalışma-Disiplini-Analiz-Sistemi
 OpenCV ve MediaPipe tabanlı, çalışma duruşunu analiz eden ve disiplin yüzdesini hesaplayan gerçek zamanlı takip sistemi.
 1. Amaç  
 
